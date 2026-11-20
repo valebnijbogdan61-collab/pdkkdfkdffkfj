@@ -1,0 +1,19 @@
+<resources>
+  <string name="app_name">GameButton</string>
+  <string name="select_game">Select Game</string>
+  <string name="start_game">Start Game</string>
+  <string name="grant_overlay">1. Дозволити плаваючі вікна</string>
+  <string name="grant_a11y">2. Увімкнути Accessibility (GameButton)</string>
+  <string name="start_overlay">3. Показати кнопку</string>
+  <string name="stop_overlay">Сховати кнопку</string>
+  <string name="overlay_running">Кнопка взаємодії активна</string>
+  <string name="a11y_desc">Потрібен, щоб кнопка могла натискати на екран замість гравця.</string>
+  <string name="auto_on">Авто-режим: увімкнено</string>
+  <string name="auto_off">Авто-режим: вимкнено</string>
+  <string name="nothing_found">Нічого не знайдено на екрані</string>
+  <string name="ai_mode">AI-режим (Gemini vision, коли OCR нічого не знайшов)</string>
+  <string name="ai_key_hint">Gemini API key (Google AI Studio)</string>
+  <string name="save">Зберегти</string>
+  <string name="saved">Збережено</string>
+  <string name="ai_limit">Ліміт Gemini вичерпано, спробуй пізніше</string>
+</resources>
